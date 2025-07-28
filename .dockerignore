@@ -1,0 +1,38 @@
+# Ignore caches and system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.md
+
+# Ignore big data and folders
+input/
+output/
+*.pdf
+*.zip
+*.tar
+*.gz
+
+# Ignore local env and IDE
+venv/
+.env
+.idea/
+.DS_Store
+*.egg-info/
+node_modules/
+
+
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.zip
+*.tar.gz
+*.whl
+*.egg-info
+input/
+output/
+.venv/
+.env
+.git/
