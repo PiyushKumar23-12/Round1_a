@@ -142,7 +142,7 @@ Modify these values in the __main__ block to match your project structure.
 
 1. Clone the repository:
    bash
-   git clone https://github.com/PiyushKumar23-12/Round_1a
+   git clone https://github.com/PiyushKumar23-12/Round1_a
    
 2. Put your PDFs into the input/ folder.
 
