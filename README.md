@@ -170,4 +170,5 @@ Modify these values in the __main__ block to match your project structure.
 
 Each input PDF will generate a corresponding .json file in the output folder with title and structured outline.
 
-![Sample_output](https://github.com/user-attachments/assets/78b3a220-e0fa-4274-8c05-1d744e87979a)
+<img width="1912" height="1017" alt="image" src="https://github.com/user-attachments/assets/13a040d1-1a63-4aed-9a84-cdc3cdf7cfba" />
+
