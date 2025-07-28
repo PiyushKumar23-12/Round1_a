@@ -153,8 +153,10 @@ Modify these values in the __main__ block to match your project structure.
 5. Build and run the Docker container using the below commands in PowerShell:
 
    bash
+   ```
    docker build -t pdf-outline-extractor .
    docker run --rm -it -v "${PWD}\app\input:/app/input" -v "${PWD}\app\output:/app/output" pdf-outline-extractor
+   ```
    
 
 ### Key Docker Features
