@@ -1,6 +1,7 @@
 # PDF Heading and Title Extractor
 
-This Python utility extracts structured heading information from PDF files and exports the results as JSON. It uses font size heuristics to infer document structure, including titles and hierarchical headings (e.g., H1, H2, H3). This tool is ideal for generating document outlines, enabling navigation, and supporting automated document analysis.
+This Python utility extracts structured heading information from PDF files and exports the results as JSON. It infers the document's structure by identifying titles and hierarchical headings (e.g., H1, H2, H3). This makes it ideal for generating outlines, improving navigation, and enabling automated document analysis.
+
 
 ---
 
